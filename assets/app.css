@@ -1,0 +1,28 @@
+body{
+    background-color: #e2d9e3;
+}
+
+#title{
+    color:#cd699b
+}
+
+#region-radio{
+    display:flex;
+    margin:1rem;
+    padding-top:0rem;
+    padding-left:1rem;
+}
+#regions .dash-options-list-option{
+    margin:1rem;
+    padding:1rem;
+    font-size:2rem;
+    border: 0.2rem solid #cd699b;
+    border-radius: 0.5rem;
+    color:#cd699b
+}
+#regions h2{
+    color: #cd699b;
+    padding-left:1rem;
+    padding-bottom:0rem;
+    font-size:2rem;
+}
